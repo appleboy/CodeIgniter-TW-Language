@@ -1,4 +1,1 @@
-Requirements
-============
-
-Please install CodeIgniter <http://codeigniter.org.tw> first
+Source Code are moving to https://github.com/CodeIgniter-TW/CodeIgniter-Language
